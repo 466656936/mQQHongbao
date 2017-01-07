@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QQ红包</string>
+    <string name="service_name">设置抢红包辅助</string>
+    <string name="action_settings">Settings</string>
+    <string name="way1">1、开启抢红包插件。\t\t\t\t\t\t</string>
+    <string name="way2">2、进入qq群等待红包出现。</string>
+    <string name="way3">3、祝大家新年大吉吧。\t\t\t\t</string>
+</resources>
